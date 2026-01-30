@@ -43,7 +43,7 @@ The application flows through three distinct phases:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/yourusername/valentines-day-surprise.git
-    cd valentines-day-surprise
+    cd ValentinesDay-SurpriseWebsite
     ```
 
 2.  **Install dependencies:**
